@@ -1,3 +1,3 @@
 # Raspberry Pi Usefull Scripts
-# Opencv.sh
+# OpenCV.sh
 Install opencv for python3 without errors
